@@ -1,1 +1,1 @@
-# LEOcad - My LEOcad models
+# LeoCAD - My LeoCAD (https://www.leocad.org/) models
